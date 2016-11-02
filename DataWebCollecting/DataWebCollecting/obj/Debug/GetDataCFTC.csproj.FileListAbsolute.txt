@@ -1,0 +1,9 @@
+d:\Visual Studio 2015\Projects\GetDataCFTC\GetDataCFTC\bin\Debug\GetDataCFTC.exe.config
+d:\Visual Studio 2015\Projects\GetDataCFTC\GetDataCFTC\bin\Debug\GetDataCFTC.exe
+d:\Visual Studio 2015\Projects\GetDataCFTC\GetDataCFTC\bin\Debug\GetDataCFTC.pdb
+d:\Visual Studio 2015\Projects\GetDataCFTC\GetDataCFTC\obj\Debug\GetDataCFTC.Form1.resources
+d:\Visual Studio 2015\Projects\GetDataCFTC\GetDataCFTC\obj\Debug\GetDataCFTC.logo.resources
+d:\Visual Studio 2015\Projects\GetDataCFTC\GetDataCFTC\obj\Debug\GetDataCFTC.Properties.Resources.resources
+d:\Visual Studio 2015\Projects\GetDataCFTC\GetDataCFTC\obj\Debug\GetDataCFTC.csproj.GenerateResource.Cache
+d:\Visual Studio 2015\Projects\GetDataCFTC\GetDataCFTC\obj\Debug\GetDataCFTC.exe
+d:\Visual Studio 2015\Projects\GetDataCFTC\GetDataCFTC\obj\Debug\GetDataCFTC.pdb

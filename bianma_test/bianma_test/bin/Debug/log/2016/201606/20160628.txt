@@ -1,0 +1,24 @@
+
+ 
+记录时间：2016-06-28 14:11:34,177 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：bianma_test.Program property: [(null)] - 
+错误描述：测试log4net
+ 
+
+ 
+记录时间：2016-06-28 14:12:21,164 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：bianma_test.Program property: [(null)] - 
+错误描述：测试log4net
+ 
+
+ 
+记录时间：2016-06-28 14:14:14,201 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：bianma_test.Program property: [(null)] - 
+错误描述：测试log4net
+ 

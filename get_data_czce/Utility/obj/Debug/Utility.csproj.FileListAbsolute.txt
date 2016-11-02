@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2015\Projects\get_data_czce\Utility\bin\Debug\Utility.dll
+D:\Documents\Visual Studio 2015\Projects\get_data_czce\Utility\bin\Debug\Utility.pdb
+D:\Documents\Visual Studio 2015\Projects\get_data_czce\Utility\obj\Debug\Utility.dll
+D:\Documents\Visual Studio 2015\Projects\get_data_czce\Utility\obj\Debug\Utility.pdb
+D:\Visual Studio 2015\Projects\get_data_czce\Utility\bin\Debug\Utility.dll
+D:\Visual Studio 2015\Projects\get_data_czce\Utility\bin\Debug\Utility.pdb
+D:\Visual Studio 2015\Projects\get_data_czce\Utility\obj\Debug\Utility.dll
+D:\Visual Studio 2015\Projects\get_data_czce\Utility\obj\Debug\Utility.pdb
+D:\Visual Studio 2015\Projects\get_data_czce\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache

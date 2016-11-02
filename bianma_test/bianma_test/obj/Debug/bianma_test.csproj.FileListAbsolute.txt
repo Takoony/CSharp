@@ -1,0 +1,8 @@
+d:\documents\visual studio 2015\Projects\bianma_test\bianma_test\bin\Debug\bianma_test.exe.config
+d:\documents\visual studio 2015\Projects\bianma_test\bianma_test\bin\Debug\bianma_test.exe
+d:\documents\visual studio 2015\Projects\bianma_test\bianma_test\bin\Debug\bianma_test.pdb
+d:\documents\visual studio 2015\Projects\bianma_test\bianma_test\obj\Debug\bianma_test.exe
+d:\documents\visual studio 2015\Projects\bianma_test\bianma_test\obj\Debug\bianma_test.pdb
+D:\Documents\Visual Studio 2015\Projects\bianma_test\bianma_test\bin\Debug\log4net.dll
+D:\Documents\Visual Studio 2015\Projects\bianma_test\bianma_test\bin\Debug\log4net.pdb
+D:\Documents\Visual Studio 2015\Projects\bianma_test\bianma_test\bin\Debug\log4net.xml

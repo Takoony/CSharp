@@ -1,0 +1,5 @@
+d:\documents\visual studio 2015\Projects\Console20160325\Console20160325\bin\Debug\Console20160325.exe.config
+d:\documents\visual studio 2015\Projects\Console20160325\Console20160325\bin\Debug\Console20160325.exe
+d:\documents\visual studio 2015\Projects\Console20160325\Console20160325\bin\Debug\Console20160325.pdb
+d:\documents\visual studio 2015\Projects\Console20160325\Console20160325\obj\Debug\Console20160325.exe
+d:\documents\visual studio 2015\Projects\Console20160325\Console20160325\obj\Debug\Console20160325.pdb

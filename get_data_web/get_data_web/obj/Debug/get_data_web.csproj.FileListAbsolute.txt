@@ -1,0 +1,16 @@
+d:\documents\visual studio 2015\Projects\get_data_web\get_data_web\bin\Debug\get_data_web.exe.config
+D:\Documents\Visual Studio 2015\Projects\get_data_web\get_data_web\bin\Debug\get_data_web.exe
+D:\Documents\Visual Studio 2015\Projects\get_data_web\get_data_web\bin\Debug\get_data_web.pdb
+D:\Documents\Visual Studio 2015\Projects\get_data_web\get_data_web\obj\Debug\get_data_web.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\get_data_web\get_data_web\obj\Debug\get_data_web.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\get_data_web\get_data_web\obj\Debug\get_data_web.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\get_data_web\get_data_web\obj\Debug\get_data_web.exe
+D:\Documents\Visual Studio 2015\Projects\get_data_web\get_data_web\obj\Debug\get_data_web.pdb
+D:\Visual Studio 2015\Projects\get_data_web\get_data_web\bin\Debug\get_data_web.exe.config
+D:\Visual Studio 2015\Projects\get_data_web\get_data_web\bin\Debug\get_data_web.exe
+D:\Visual Studio 2015\Projects\get_data_web\get_data_web\bin\Debug\get_data_web.pdb
+D:\Visual Studio 2015\Projects\get_data_web\get_data_web\obj\Debug\get_data_web.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\get_data_web\get_data_web\obj\Debug\get_data_web.Properties.Resources.resources
+D:\Visual Studio 2015\Projects\get_data_web\get_data_web\obj\Debug\get_data_web.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\Projects\get_data_web\get_data_web\obj\Debug\get_data_web.exe
+D:\Visual Studio 2015\Projects\get_data_web\get_data_web\obj\Debug\get_data_web.pdb

@@ -1,0 +1,14 @@
+D:\Documents\Visual Studio 2015\Projects\daily_hst_sina\daily_hst_sina\bin\Release\daily_hst_sina.exe.config
+D:\Documents\Visual Studio 2015\Projects\daily_hst_sina\daily_hst_sina\bin\Release\daily_hst_sina.exe
+D:\Documents\Visual Studio 2015\Projects\daily_hst_sina\daily_hst_sina\bin\Release\daily_hst_sina.pdb
+D:\Documents\Visual Studio 2015\Projects\daily_hst_sina\daily_hst_sina\bin\Release\Utility.dll
+D:\Documents\Visual Studio 2015\Projects\daily_hst_sina\daily_hst_sina\bin\Release\Utility.pdb
+D:\Documents\Visual Studio 2015\Projects\daily_hst_sina\daily_hst_sina\obj\Release\daily_hst_sina.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\daily_hst_sina\daily_hst_sina\obj\Release\daily_hst_sina.hst_sina.resources
+D:\Documents\Visual Studio 2015\Projects\daily_hst_sina\daily_hst_sina\obj\Release\daily_hst_sina.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\daily_hst_sina\daily_hst_sina\obj\Release\daily_hst_sina.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\daily_hst_sina\daily_hst_sina\obj\Release\daily_hst_sina.exe
+D:\Documents\Visual Studio 2015\Projects\daily_hst_sina\daily_hst_sina\obj\Release\daily_hst_sina.pdb
+D:\Visual Studio 2015\Projects\daily_hst_sina\daily_hst_sina\bin\Release\daily_hst_sina.exe.config
+D:\Visual Studio 2015\Projects\daily_hst_sina\daily_hst_sina\obj\Release\daily_hst_sina.exe
+D:\Visual Studio 2015\Projects\daily_hst_sina\daily_hst_sina\obj\Release\daily_hst_sina.pdb
